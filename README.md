@@ -1,3 +1,3 @@
 # Music-Player
-It is a online music player with clean user interface and mixing features.
+It's an online music player with clean user interface and mixing features.
 Your suggestions are invited...
